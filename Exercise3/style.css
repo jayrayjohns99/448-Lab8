@@ -1,0 +1,50 @@
+.title
+{
+    text-align: center;
+}
+
+h1
+{
+  color: white;
+  font-family: Helvetica;
+  font-size: 22pt;
+  text-align: center;
+}
+
+a
+{
+  color: silver;
+}
+
+b
+{
+  font-size: 16pt;
+}
+
+b.smaller
+{
+  font-size: 10pt;
+}
+
+body
+{
+    text-align: center;
+    background-color: #202020;
+    color: #63BBF2;
+    font-family: sans-serif;
+
+    background-image: url(pic.jpeg);
+    background-size: 100%;
+
+    background-attachment: fixed;
+}
+
+b:hover
+{
+  color: black;
+}
+
+h1:hover
+{
+color: darkblue;
+}

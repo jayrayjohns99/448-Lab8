@@ -1,0 +1,23 @@
+.title
+{
+    text-align: center;
+}
+
+h1
+{
+  color: white;
+  font-family: georgia;
+  font-size: 22pt;
+  text-align: center;
+}
+
+body
+{
+    text-align: center;
+    background-color: #202020;
+    color: white;
+    font-family: helvetica;
+    border-style: solid;
+    border-radius: 50pt;
+    border-width: 1pt;
+}
